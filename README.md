@@ -1,0 +1,2 @@
+# PathFinding AI
+ Pathfinding is the plotting of the shortest route between two points. “Pathfinding is closely related to the shortest path problem which examines how to identify the path that best meets some criteria (shortest, cheapest, fastest, etc) between two points in a large network. In this project, we will find the shortest path between two points given a map, starting position and a goal [1]”. The project uses Artificial Intelligence to avoid obstacles and get to the destination in the cheapest way possible.
