@@ -1,0 +1,3 @@
+road_config,strategy,iteration,path_length
+road-config-tree,best-first,1,50
+road-config-tree,astar,1,50
